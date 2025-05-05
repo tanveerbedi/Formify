@@ -77,7 +77,9 @@ Formify is open-sourced under the **MIT License**.
 ## Contact
 
 Maintainer: *Tanveer Singh Bedi*
+
 Email: [tsbedi2604@gmail.com](mailto:your.email@example.com)
+
 GitHub: [github.com/tanveerbedi](https://github.com/your-username)
 
 ---
