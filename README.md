@@ -1,4 +1,4 @@
-# Formify
+# 🌟 Formify
 
 ## Overview
 
@@ -82,16 +82,6 @@ You can connect the form to any of the following:
 
 ---
 
-## Screenshots
-
-> Replace with actual screenshots in `/assets/`
-
-```
-/assets/form-preview.png
-```
-
----
-
 ## License
 
 Formify is open-sourced under the **MIT License**.
@@ -110,5 +100,4 @@ GitHub: [github.com/tanveerbedi](https://github.com/your-username)
 
 * [Vite](https://vitejs.dev/)
 * [Tailwind CSS](https://tailwindcss.com/)
-* [Heroicons](https://heroicons.com/) (if used)
 * Open Source community
