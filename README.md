@@ -57,20 +57,6 @@ npm install
 npm run dev
 ```
 
----
-
-## Form Fields Included
-
-* Full Name *(required)*
-* Contact Number *(required)*
-* Address *(required)*
-* Company Name *(required)*
-* Email Address *(required)*
-* Department (dropdown) *(required)*
-* Gender (radio buttons) *(required)*
-
----
-
 ## Extending Functionality
 
 You can connect the form to any of the following:
